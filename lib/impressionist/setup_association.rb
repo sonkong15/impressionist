@@ -35,6 +35,7 @@ module Impressionist
                         :view_name,
                         :referrer,
                         :message,
+                        :blog_id,
                         :user_id)
       end
 
