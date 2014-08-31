@@ -36,6 +36,8 @@ module Impressionist
                         :referrer,
                         :message,
                         :blog_id,
+                        :sender_id, 
+                        :receiver_id,
                         :user_id)
       end
 
